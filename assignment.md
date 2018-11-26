@@ -1,9 +1,14 @@
-#Assignment week 3 (METHODS)
+#Assignment week 3 
+USING METHODS and CONDITIONALS
 
-###Initial Setup
+## Initial Setup
+1. copy the following code into a file called `SwagBot.java`
+2. fill in the blanks to make the code run
+	- edit implement code where the comments instruct you to do so
+	- change <clue> to java that should go there
 
-####FILE: GravityCalculator.java (don't worry about this if using online interpreter)
 
+FILE: `SwagBot.java`
 ```java
 class SwagBot {
 
@@ -40,7 +45,7 @@ class SwagBot {
 									String driveType) {
 		// put code here
 		// first line
-		
+
 		// second line
 	}
 
