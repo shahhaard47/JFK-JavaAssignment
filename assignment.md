@@ -1,4 +1,4 @@
-#Assignment week 3 
+# Assignment week 3 
 USING METHODS and CONDITIONALS
 
 ## Initial Setup
