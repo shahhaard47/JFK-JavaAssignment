@@ -39,6 +39,9 @@ class SwagBot {
 									String dir, 
 									String driveType) {
 		// put code here
+		// first line
+		
+		// second line
 	}
 
 	// write a function named "betterDashboardPrint" that does not require "String dir" parameter
@@ -57,13 +60,25 @@ class SwagBot {
 
 		// make sure robot is stopped
 		leftSpeed = 0; rightSpeed = 0;
-		direction = stopRobot(leftSpeed, rightSpeed);
 		direction = calculateRobotDirection(leftSpeed, rightSpeed);
 
 		// go forward with full speed
 		leftSpeed = 1.0;
 		rightSpeed = 1.0;
-		speed = goForward(leftSpeed, rightSpeed);
+		direction = calculateRobotDirection(leftspeed, rightSpeed);
+
+		// write code to go fwd with half speed
+		leftSpeed = //code
+		rightSpeed = //code
+		direction = // call calculateRobotDirection
+
+		// write code to go bkwd with full speed -1, -1
+
+
+		// write code to turn right
+
+
+		// write code to turn left
 	}
 }
 ```
