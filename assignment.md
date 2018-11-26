@@ -7,7 +7,6 @@ USING METHODS and CONDITIONALS
 	- edit implement code where the comments instruct you to do so
 	- change <clue> to java that should go there
 
-
 FILE: `SwagBot.java`
 ```java
 class SwagBot {
@@ -47,10 +46,13 @@ class SwagBot {
 		// first line
 
 		// second line
+		
 	}
 
-	// write a function named "betterDashboardPrint" that does not require "String dir" parameter
-	// hint: inside your new betterDashboardPrint you can call the calculateRobotDirection to get the direction 
+	/*
+Write a function named "betterDashboard" that does not require "dir" parameter
+hint: inside your new function you can call `calculateRobotDirection to get the direction
+	*/
 
 	public static void main(String[] args) {
 		final String robotName = "SwagBot";
@@ -87,3 +89,9 @@ class SwagBot {
 	}
 }
 ```
+
+
+RESOURCES:
+- this repository: https://github.com/shahhaard47/JFK-JavaAssignment
+- methods: https://www.tutorialspoint.com/java/java_methods.htm
+- conditionals: https://www.tutorialspoint.com/java/if_else_statement_in_java.htm
