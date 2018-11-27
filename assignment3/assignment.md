@@ -1,6 +1,9 @@
 # Assignment week 3 
 USING METHODS and CONDITIONALS
 
+## Update
+- Solution inside `SwagBot.java`
+
 ## Initial Setup
 1. copy the following code into a file called `SwagBot.java`
 2. fill in the blanks to make the code run
